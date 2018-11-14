@@ -1,11 +1,11 @@
-## Welcome to GitHub Pages
+## MEM Chat working group [Dicetactic](https://dicetactic.github.io) 
 
-You can use the [editor on GitHub](https://github.com/dicetactic/dicetactic.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
+### Бед
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
+```javascript
+const FutureOfMaturity = pastOf( Founders )
+```
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
