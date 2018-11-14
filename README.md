@@ -1,7 +1,7 @@
 ## MEM Chat working group [Dicetactic](https://dicetactic.github.io) 
 
 <details>
-<summary>Будущее большинства === Прошлое первых</summary>
+#<summary>Будущее большинства === Прошлое первых</summary>
 
 ```javascript
 const FutureOfMaturity = pastOf( Founders )
