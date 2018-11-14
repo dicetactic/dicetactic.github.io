@@ -1,11 +1,14 @@
 ## MEM Chat working group [Dicetactic](https://dicetactic.github.io) 
 
-### Бед
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<details>
+<summary>Будущее большинства === Прошлое первых</summary>
 
 ```javascript
 const FutureOfMaturity = pastOf( Founders )
 ```
+
+</details>
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
